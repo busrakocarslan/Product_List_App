@@ -1,0 +1,14 @@
+@import "./scss/reset";
+@import "./scss/variables";
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  width: 90%;
+  margin: auto;
+  background-color:$beige ;
+}
+
+p {
+  font-size: 1.1rem;
+}
