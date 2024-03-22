@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Product_List_App/static/css/main.bd4db234.css",
+    "main.js": "/Product_List_App/static/js/main.81181523.js",
+    "index.html": "/Product_List_App/index.html",
+    "main.bd4db234.css.map": "/Product_List_App/static/css/main.bd4db234.css.map",
+    "main.81181523.js.map": "/Product_List_App/static/js/main.81181523.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd4db234.css",
+    "static/js/main.81181523.js"
+  ]
+}
